@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou YNFINIT666
+# 👋 Olá, eu sou Rihan Kelvyn
 
 Sou um estudante do ensino médio começando minha jornada no mundo da tecnologia e da programação.
 
