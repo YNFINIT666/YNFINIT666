@@ -1,4 +1,4 @@
-# BAH GURI CÊ TÁ BÃO? Meu nome Rihan Kelvyn!!!
+# 😜 BAH GURI CÊ TÁ BÃO? Meu nome Rihan Kelvyn!!!
 
 Sou um estudante do ensino médio começando minha jornada no mundo da tecnologia e da programação.
 
@@ -23,7 +23,6 @@ Tenho um interesse até que bom em aprender como funcionam os sistemas de comput
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YNFINIT666&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Linguagens e Tecnologias
 
 
 
